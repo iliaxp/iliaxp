@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there, I'm Iliya</h1>
 
 <p align="center">
-  <b>Freelance Android Developer | Kotlin + Jetpack Compose Specialist | Backend with Spring Boot</b><br>
-  <b>Based in Shiraz, Iran 🇮🇷</b>
+  <b>Freelance Android Developer | Kotlin/Android | API with Spring Boot and Ktor</b><br>
+  <b>Based in Shiraz</b>
 </p>
 
 <p align="center">
@@ -11,20 +11,18 @@
 
 ---
 
-- 🌱 I'm currently learning **AI-based recommendations** and **Advanced Jetpack Compose**
-- 🔧 I'm actively developing full-stack apps with Kotlin, Compose, Spring Boot, and PostgreSQL
+- 🔧 I'm actively developing full-stack apps with Kotlin, Compose, Spring Boot,Ktor and POSTGRESQL
 - 🚀 I'm open to collaboration on open-source and freelance Android apps
 
-📫 Reach me at: [iliyadev@gmail.com](mailto:iliyadev@gmail.com)  
-🌐 Connect with me: [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/iliyadev) • [Instagram](https://instagram.com)  
+📫 Reach me at: [iliyadevstudio@gmail.com](mailto:iliyadevstudio@gmail.com)  
+🌐 Connect with me: [LinkedIn](https://linkedin.com/mahdizaredev) • [GitHub](https://github.com/iliyadev) • [Instagram](https://instagram.com/mahdizaredev)  
 
 ---
 
 ### 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,gradle,postgres,git,github,figma,vscode,idea,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,linux,bash,python" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,gradle,postgres,git,github,figma,vscode" /><br>
 </p>
 
 ---
