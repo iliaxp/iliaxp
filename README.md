@@ -10,20 +10,18 @@
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left">
-        </a>
-        <a href="https://stackoverflow.com/users/21383079/iliya"
-        target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
-            width="40" height="32" /></a>      
-        <a href="http://www.instagram.com/mahdizaredev" target="_blank"
-        rel="noreferrer"> 
-        <kbd>
-        </a>      
-        <a href="https://www.linkedin.com/in/mahdizaredev" target="_blank"
+  <a href="https://stackoverflow.com/users/21383079/iliya" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" height="32" alt="Stack Overflow"/>
+  </a>
+  
+  <a href="https://www.instagram.com/mahdizaredev" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="32" alt="Instagram" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mahdizaredev" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="32" alt="LinkedIn" />
+  </a>
 </p>
-
-<h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left">
 <kbd>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <picture>
