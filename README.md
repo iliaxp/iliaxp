@@ -143,7 +143,7 @@
 <kbd>
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscod" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode" />
       <img src="https://skillicons.dev/icons?i=word&theme=light" alt="Word" />
     </picture>
   </a>
