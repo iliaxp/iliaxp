@@ -11,17 +11,18 @@
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left">
   <a href="https://stackoverflow.com/users/21383079/iliya" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" height="32" alt="Stack Overflow"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="32" alt="Stack Overflow" />
   </a>
   
   <a href="https://www.instagram.com/mahdizaredev" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="32" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" alt="Instagram" />
   </a>
   
   <a href="https://www.linkedin.com/in/mahdizaredev" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="32" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
   </a>
 </p>
+
 <kbd>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <picture>
