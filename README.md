@@ -116,7 +116,7 @@
 <kbd>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jetpack" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=stackoverflow" />
       <img src="https://skillicons.dev/icons?i=jetpack&theme=light" alt="Jetpack Compose" />
     </picture>
   </a>
@@ -143,7 +143,7 @@
 <kbd>
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=word" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscod" />
       <img src="https://skillicons.dev/icons?i=word&theme=light" alt="Word" />
     </picture>
   </a>
@@ -152,7 +152,7 @@
 <kbd>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powerpoint" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=notion" />
       <img src="https://skillicons.dev/icons?i=powerpoint&theme=light" alt="PowerPoint" />
     </picture>
   </a>
@@ -161,7 +161,7 @@
 <kbd>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=excel" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java" />
       <img src="https://skillicons.dev/icons?i=excel&theme=light" alt="Excel" />
     </picture>
   </a>
@@ -170,7 +170,7 @@
 <kbd>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=springboot" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring" />
       <img src="https://skillicons.dev/icons?i=springboot&theme=light" alt="Spring Boot" />
     </picture>
   </a>
