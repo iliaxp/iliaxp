@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,ktor,gradle,postgres,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,ktor,gradle,postgres,git,github,vscode,windows,wordpress,linux,idea,gcp,firebase,pr,ps,au,spring" />
 </p>
 
 ---
@@ -35,23 +35,6 @@
 <a href="https://github.com/iliaxp?tab=repositories" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=OfflineShow&theme=radical" />
 </a>
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliyadev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyadev&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliyadev&theme=radical" width="96%" />
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution Graph" />
-</p>
-
 ---
 
 ### ☕ Support My Work
