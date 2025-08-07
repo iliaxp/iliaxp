@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,ktor,gradle,postgres,git,github,vscode,windows,wordpress,linux,idea,gcp,firebase,pr,ps,au,spring" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,ktor,gradle,postgres,git,github,vscode,windows,wordpress,linux,idea,gcp,firebase,pr,ps,au" />
 </p>
 
 ---
