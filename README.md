@@ -27,46 +27,19 @@
 
 ---
 
-### ⚙️ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📱 Android Shop App</h4>
-      <p>A fully-featured Jetpack Compose app with cart, auth, product details and more.</p>
-      <ul>
-        <li>Jetpack Compose</li>
-        <li>Retrofit + MVVM + Hilt</li>
-        <li>Spring Boot backend</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>💬 SecureChat API</h4>
-      <p>A secure messaging API built with Spring Boot 3.5.4 and Kotlin with JWT authentication.</p>
-      <ul>
-        <li>PostgreSQL + JPA</li>
-        <li>BCrypt Password Hashing</li>
-        <li>SOLID Architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📂 Projects from GitHub Repositories
 
-<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=InstaDownloader&theme=radical" />
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=InstaDownloader&theme=radical" />
 </a>
-<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=KotlinBlogAPI&theme=radical" />
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=KotlinBlogAPI&theme=radical" />
 </a>
-<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=BookStoreApp&theme=radical" />
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=BookStoreApp&theme=radical" />
 </a>
-<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=InstaClone&theme=radical" />
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=InstaClone&theme=radical" />
 </a>
 
 <details>
