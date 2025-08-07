@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://www.instagram.com/mahdizaredev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" alt="Instagram" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
   </a>
   
   <a href="https://www.linkedin.com/in/mahdizaredev" target="_blank" rel="noreferrer">
