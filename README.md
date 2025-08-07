@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Freelance Android Developer | Kotlin/Android | API with Spring Boot and Ktor</b><br>
-  <b>📍 Based in Shiraz, Iran</b>
+  <b></b>
 </p>
 
 <p align="center">
