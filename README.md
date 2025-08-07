@@ -2,12 +2,6 @@
 <h1 align="center">👋🏻 Hey there, I'm Azeem</h1>
 <h3 align="center"> CSE Grad | Software Development Engineer | Aspiring Ethical Hacker</h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat"
-        alt="azeemidrisi" /> </p>
-
-<img align="right" alt="Coding" width="400" src="docs/avento.gif" />
-
 - 🧑🏻‍💻 I’m currently learning **Java** and  **Spring Boot**.
 
 - 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
