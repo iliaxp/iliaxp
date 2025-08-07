@@ -54,8 +54,6 @@
 
 ---
 
-<details>
-<summary><b>📦 More Useful Repos [Click to expand]</b></summary>
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -71,8 +69,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliyadev&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyadev&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iliaxp&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliaxp&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
