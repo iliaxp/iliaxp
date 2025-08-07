@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Iliya 👋</h1>
 
-<!--
-**iliaxp/iliaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎥 YouTuber, Android Developer with Kotlin & Jetpack Compose, PC Hardware Enthusiast  
+📍 Based in Shiraz, Iran | 🧠 Passionate about mastering Spring Boot & Full-Stack Kotlin
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- 💻 **Languages**: `Kotlin`, `Java`, `HTML`, `SQL`
+- 🧩 **Frameworks**: `Jetpack Compose`, `Spring Boot`, `Room`, `Coroutines`, `Retrofit`
+- 🛢️ **Databases**: `PostgreSQL`, `SQLite`, `Firebase`
+- 🔐 **Security**: `JWT`, `BCrypt`, `OAuth2`
+- ⚙️ **Dev Tools**: `Gradle (KTS)`, `Git`, `CI/CD`, `Render`, `Postman`
+
+---
+
+### 🎯 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 📱 `BookStore App` | Android app with sign-in, categories, shopping cart, and payment |
+| 💬 `WhatsApp Clone` | Messaging app with text, photo, video, and file sharing (no calls/stories) |
+| 🛒 `Online Shop` | E-commerce platform with JWT auth, product management, and checkout |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iliya&show_icons=true&theme=tokyonight" alt="Iliya's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate
+
+I'm always open to contributing to open-source projects, building Android apps, or collaborating on high-impact software solutions.
+
+📧 Email: `iliya.dev@example.com`  
+📬 Telegram: `@iliya_dev`
+
+---
+
+<p align="center">
+  Code with ❤️ and curiosity.
+</p>
