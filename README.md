@@ -1,83 +1,87 @@
-<!-- README.md -->
-
 <h1 align="center">👋 Hey there, I'm Iliya</h1>
 
 <p align="center">
-  <strong>Freelance Android Developer | Kotlin Enthusiast | PC Hardware Content Creator</strong><br>
-  📍 Based in Shiraz, Iran
+  <b>Freelance Android Developer | Kotlin/Android | API with Spring Boot and Ktor</b><br>
+  <b>Based in Shiraz</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iliya123&label=Profile%20views&color=0e75b6&style=flat" alt="iliya123" />
+  <img src="https://komarev.com/ghpvc/?username=iliyadev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-🧠 I'm currently working on Kotlin-based Android apps and backend APIs using Spring Boot with a strong focus on clean architecture and performance optimization.
+- 🔧 I'm actively developing full-stack apps with Kotlin, Compose, Spring Boot,Ktor and POSTGRESQL
+- 🚀 I'm open to collaboration on open-source and freelance Android apps
 
-🚀 Passionate about building:
-- 🧾 E-Commerce apps
-- 💬 Messaging platforms
-- 📥 Media downloaders (e.g., InstaDownloaders)
-
-📬 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)
-
-🔗 Connect with me:
-<a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+📫 Reach me at: [iliyadevstudio@gmail.com](mailto:iliyadevstudio@gmail.com)  
+🌐 Connect with me: [LinkedIn](https://linkedin.com/mahdizaredev) • [GitHub](https://github.com/iliyadev) • [Instagram](https://instagram.com/mahdizaredev)  
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,gradle,git,github,postgres,vscode,docker,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,gradle,postgres,git,github,figma,vscode" /><br>
 </p>
 
 ---
 
-## ⚙️ Projects
+### ⚙️ Projects:
 
-<!-- Replace iliya123 with your GitHub username -->
-<a href="https://github.com/iliya123?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliya123&repo=your-best-repo&theme=radical" />
-</a>
-<a href="https://github.com/iliya123?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliya123&repo=another-repo&theme=radical" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📱 Android Shop App</h4>
+      <p>A fully-featured Jetpack Compose app with cart, auth, product details and more.</p>
+      <ul>
+        <li>Jetpack Compose</li>
+        <li>Retrofit + MVVM + Hilt</li>
+        <li>Spring Boot backend</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>💬 SecureChat API</h4>
+      <p>A secure messaging API built with Spring Boot 3.5.4 and Kotlin with JWT authentication.</p>
+      <ul>
+        <li>PostgreSQL + JPA</li>
+        <li>BCrypt Password Hashing</li>
+        <li>SOLID Architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Add more repo cards as needed -->
+---
 
-<details>
-  <summary>📂 More Useful Repos [Click to expand]</summary>
-  <br>
-  <a href="https://github.com/iliya123"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliya123&repo=project1&theme=react" /></a>
-  <a href="https://github.com/iliya123"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliya123&repo=project2&theme=react" /></a>
-  <a href="https://github.com/iliya123"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliya123&repo=project3&theme=react" /></a>
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| InstaDownloader | Bulk Instagram downloader | Kotlin |
+| KotlinBlogAPI | Blog API with Spring Boot + JWT | Kotlin, Spring |
+| BookStore App | Android shopping app for books | Kotlin, Jetpack Compose |
+| InstaClone | Instagram-like UI design | Kotlin, Compose |
+
 </details>
 
 ---
 
-## 📊 GitHub Activity & Stats
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliya123&show_icons=true&theme=radical&hide=issues" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliya123&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=iliya123&animation=purple-glow" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iliaxp&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliaxp&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
 
-## ☕ Support Me
+### ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/iliya123" target="_blank"><img src="https://img.shields.io/badge/☕-Buy me a coffee-ffdd00?style=for-the-badge" /></a>
-  <a href="https://paypal.me/iliya123" target="_blank"><img src="https://img.shields.io/badge/💰-Donate with PayPal-0070ba?style=for-the-badge" /></a>
+  <a href="https://www.buymeacoffee.com/iliyadev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
 </p>
+
+---
+
