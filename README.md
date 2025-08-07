@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Freelance Android Developer | Kotlin/Android | API with Spring Boot and Ktor</b><br>
-  <b>Based in Shiraz</b>
+  <b>📍 Based in Shiraz, Iran</b>
 </p>
 
 <p align="center">
@@ -11,23 +11,23 @@
 
 ---
 
-- 🔧 I'm actively developing full-stack apps with Kotlin, Compose, Spring Boot,Ktor and POSTGRESQL
+- 🔧 I'm actively developing full-stack apps with Kotlin, Jetpack Compose, Spring Boot, Ktor and PostgreSQL  
 - 🚀 I'm open to collaboration on open-source and freelance Android apps
 
 📫 Reach me at: [iliyadevstudio@gmail.com](mailto:iliyadevstudio@gmail.com)  
-🌐 Connect with me: [LinkedIn](https://linkedin.com/mahdizaredev) • [GitHub](https://github.com/iliyadev) • [Instagram](https://instagram.com/mahdizaredev)  
+🌐 Connect with me: [LinkedIn](https://linkedin.com/in/mahdizaredev) • [GitHub](https://github.com/iliyadev) • [Instagram](https://instagram.com/mahdizaredev)  
 
 ---
 
 ### 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,gradle,postgres,git,github,figma,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,ktor,gradle,postgres,git,github,figma,vscode" />
 </p>
 
 ---
 
-### ⚙️ Projects:
+### ⚙️ Featured Projects
 
 <table>
   <tr>
@@ -54,23 +54,43 @@
 
 ---
 
+### 📂 Projects from GitHub Repositories
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| InstaDownloader | Bulk Instagram downloader | Kotlin |
-| KotlinBlogAPI | Blog API with Spring Boot + JWT | Kotlin, Spring |
-| BookStore App | Android shopping app for books | Kotlin, Jetpack Compose |
-| InstaClone | Instagram-like UI design | Kotlin, Compose |
+<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=InstaDownloader&theme=radical" />
+</a>
+<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=KotlinBlogAPI&theme=radical" />
+</a>
+<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=BookStoreApp&theme=radical" />
+</a>
+<a href="https://github.com/iliyadev?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=InstaClone&theme=radical" />
+</a>
 
+<details>
+  <summary>📁 More Useful Repos [Click to expand]</summary>
+  <br>
+  <a href="https://github.com/iliyadev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=ProjectX&theme=react" /></a>
+  <a href="https://github.com/iliyadev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=ProjectY&theme=react" /></a>
 </details>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliaxp&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliaxp&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iliyadev&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyadev&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliyadev&theme=radical" width="96%" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution Graph" />
 </p>
 
 ---
@@ -82,6 +102,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
 </p>
-
----
-
