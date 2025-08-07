@@ -1,238 +1,77 @@
-<h1 align="center">👋🏻 Hey there, I'm Iliya</h1>
-<h3 align="center"> reelance Android Developer | Kotlin | API Developer </strong><br>
-  📍 Based in Shiraz</h3>
+<h1 align="center">👋 Hey there, I'm Iliya</h1>
 
-- 🧑🏻‍💻 I’m currently learning **Linux** and  **Application security**.
-
-- 🤝🏻 I’m open to collaborating on projects involving **Kotlin/Android application**, **API writing with Spring Boot**, **Full-Stack Apps**, **WordPress website** etc.
-
-- 📫 Reach me at : **<iliyadevstudio@gmail.com>**
-
-<h3 align="left">🤙🏻 Connect with me:</h3>
-<p align="left">
-  <a href="https://stackoverflow.com/users/21383079/iliya" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="32" alt="Stack Overflow" />
-  </a>
-  
-  <a href="https://www.instagram.com/mahdizaredev" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/mahdizaredev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
-  </a>
+<p align="center">
+  <b>Freelance Android Developer | Kotlin/Android | API with Spring Boot and Ktor</b><br>
+  <b>📍 Based in Shiraz, Iran</b>
 </p>
 
-<kbd>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin" />
-      <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql" />
-      <img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sqlite" />
-      <img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman" />
-      <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=photoshop" />
-      <img src="https://skillicons.dev/icons?i=photoshop&theme=light" alt="Photoshop" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aftereffects" />
-      <img src="https://skillicons.dev/icons?i=aftereffects&theme=light" alt="After Effects" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pr" />
-      <img src="https://skillicons.dev/icons?i=pr&theme=light" alt="Premiere Pro" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows" />
-      <img src="https://skillicons.dev/icons?i=windows&theme=light" alt="Windows" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux" />
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apple" />
-      <img src="https://skillicons.dev/icons?i=apple&theme=light" alt="macOS" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=stackoverflow" />
-      <img src="https://skillicons.dev/icons?i=jetpack&theme=light" alt="Jetpack Compose" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio" />
-      <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino" />
-      <img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode" />
-      <img src="https://skillicons.dev/icons?i=word&theme=light" alt="Word" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=notion" />
-      <img src="https://skillicons.dev/icons?i=powerpoint&theme=light" alt="PowerPoint" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java" />
-      <img src="https://skillicons.dev/icons?i=excel&theme=light" alt="Excel" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring" />
-      <img src="https://skillicons.dev/icons?i=springboot&theme=light" alt="Spring Boot" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://ktor.io/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ktor" />
-      <img src="https://skillicons.dev/icons?i=ktor&theme=light" alt="Ktor" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql" />
-      <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" />
-    </picture>
-  </a>
-</kbd>
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iliyadev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">⚙️ Projects:</h3>
+---
 
-<a href="https://github.com/iliaxp/PhoneSploit-Pro#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=LiberaryApplication" />
+- 🔧 I'm actively developing full-stack apps with Kotlin, Jetpack Compose, Spring Boot, Ktor and PostgreSQL  
+- 🚀 I'm open to collaboration on open-source and freelance Android apps
+
+📫 Reach me at: [iliyadevstudio@gmail.com](mailto:iliyadevstudio@gmail.com)  
+🌐 Connect with me: [LinkedIn](https://linkedin.com/in/mahdizaredev) • [GitHub](https://github.com/iliyadev) • [Instagram](https://instagram.com/mahdizaredev)  
+
+---
+
+### 🛠️ Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,ktor,gradle,postgres,git,github,figma,vscode" />
+</p>
+
+---
+
+### 📂 Projects from GitHub Repositories
+
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=InstaDownloader&theme=radical" />
 </a>
-<a href="https://github.com/iliaxp/InstaLoaderApp#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=OfflineSHow" />
-<picture>
-    <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/iliaxp/iliaxp/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/iliaxp/iliaxp/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/iliaxp/iliaxp/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=KotlinBlogAPI&theme=radical" />
+</a>
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=BookStoreApp&theme=radical" />
+</a>
+<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=InstaClone&theme=radical" />
+</a>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=iliaxp&show_icons=true&locale=en&layout=compact&theme=dark">
-    <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs?username=iliaxp&show_icons=true&locale=en&layout=compact&theme=default">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iliaxp&show_icons=true&include_all_commits=true&locale=en&theme=dark">
-    <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=iliaxp&show_icons=true&include_all_commits=true&locale=en">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=iliaxp&theme=dark">
-    <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=iliaxp">
-  </picture>
+<details>
+  <summary>📁 More Useful Repos [Click to expand]</summary>
+  <br>
+  <a href="https://github.com/iliyadev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=ProjectX&theme=react" /></a>
+  <a href="https://github.com/iliyadev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=ProjectY&theme=react" /></a>
+</details>
 
+---
 
-<h3 align="left">🚀 Like my work? Support me here:</h3>
-<a href="https://www.buymeacoffee.com/iliaxp" target="_blank"> <kbd> <img
-        src="docs/default-yellow.png" alt="Buy Me A Coffee"
-        width="200"></a>
-<a href="https://paypal.me/iliaxp" target="_blank"> <kbd> <img
-        src="docs/paypal-button-blue.png" alt="PayPal"
-        width="148"></a>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iliyadev&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyadev&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliyadev&theme=radical" width="96%" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution Graph" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/iliyadev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+</p>
