@@ -30,25 +30,11 @@
 ### 📂 Projects from GitHub Repositories
 
 <a href="https://github.com/iliaxp?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=InstaDownloader&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=LiberaryApplication&theme=radical" />
 </a>
 <a href="https://github.com/iliaxp?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=KotlinBlogAPI&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=OfflineShow&theme=radical" />
 </a>
-<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=BookStoreApp&theme=radical" />
-</a>
-<a href="https://github.com/iliaxp?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=InstaClone&theme=radical" />
-</a>
-
-<details>
-  <summary>📁 More Useful Repos [Click to expand]</summary>
-  <br>
-  <a href="https://github.com/iliyadev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=ProjectX&theme=react" /></a>
-  <a href="https://github.com/iliyadev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliyadev&repo=ProjectY&theme=react" /></a>
-</details>
-
 ---
 
 ### 📊 GitHub Stats
