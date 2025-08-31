@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=LiberaryApplication&theme=radical" />
 </a>
 <a href="https://github.com/iliaxp?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=OfflineShow&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=OnlineShop&theme=radical" />
 </a>
 ---
 
