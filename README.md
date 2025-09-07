@@ -59,11 +59,13 @@
 ### ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://paypal.me/YOURUSERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" height="60" alt="PayPal"/>
   </a>
 </p>
+
 
 ---
