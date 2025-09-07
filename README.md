@@ -42,7 +42,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://paypal.me/YOURUSERNAME" target="_blank">
-    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" height="60" alt="PayPal"/>
+    <img src="https://avatars.githubusercontent.com/u/476675?s=200&v=4" height="60" alt="PayPal"/>
   </a>
 </p>
 
