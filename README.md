@@ -35,27 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliya&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliya&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliya&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iliya/iliya/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
----
-
 ### ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
