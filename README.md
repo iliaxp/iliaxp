@@ -23,13 +23,14 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,python,c,cpp"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,spring,mysql,sqlite"/>
   <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,express,bootstrap,firebase,mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,linux"/>
+  <img src="https://skillicons.dev/icons?i=wordpress,visualstudio,firebase,postgres,ktor"/>
+  <img src="https://skillicons.dev/icons?i=windows,pr,ps,ae,idea,arduino"/>
 </p>
 
 ---
