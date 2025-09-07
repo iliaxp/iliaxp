@@ -33,6 +33,23 @@
 
 ---
 
+### ⚙️ Featured Projects
+
+<p align="center">
+  <!-- Example: Replace with your repo links -->
+  <a href="https://github.com/iliaxp/iliDownloader" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=iliDownloader&theme=radical" alt="iliDownloader" />
+  </a>
+  <a href="https://github.com/iliaxp/MahdiShelf" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=MahdiShelf&theme=radical" alt="MahdiShelf" />
+  </a>
+  <a href="https://github.com/iliaxp/OnlineShop" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=OnlineShop&theme=radical" alt="OnlineShop" />
+  </a>
+</p>
+
+---
+
 ### ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
