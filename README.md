@@ -30,6 +30,7 @@
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=wordpress,visualstudio,firebase,postgres,ktor"/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=windows,pr,ps,ae,idea,arduino"/>
 </p>
 
