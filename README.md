@@ -24,13 +24,10 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,spring,mysql,sqlite"/>
-  <br/>
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
-  <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=wordpress,visualstudio,firebase,postgres,ktor"/>
-  <br/>
   <img src="https://skillicons.dev/icons?i=windows,pr,ps,ae,idea,arduino"/>
 </p>
 
