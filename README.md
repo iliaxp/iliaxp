@@ -41,6 +41,9 @@
   <a href="https://github.com/iliaxp/iliDownloader" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=iliDownloader&theme=radical" alt="iliDownloader" />
   </a>
+   <a href="https://github.com/iliaxp/Instagram-UI-Kotlin-SocialDesign" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=Instagram-UI-Kotlin-SocialDesign&theme=radical" alt="SocialDesign (Instagram UI)" />
+  </a>
   <a href="https://github.com/iliaxp/MahdiShelf" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliaxp&repo=MahdiShelf&theme=radical" alt="MahdiShelf" />
   </a>
